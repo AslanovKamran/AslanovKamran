@@ -10,7 +10,8 @@
   
 - 🛡 And trying to dive into cyber security   
   
-- 💻 You can find me at the  <a href="https://www.codewars.com/users/_aslan17" target="blank">Codewars.com </a>
+- 💻 You can find me at the  <p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
+
 
 - ❓ Ask me about anything related to C# 
   

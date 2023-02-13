@@ -8,9 +8,9 @@
 
 - 🐱‍🏍 I am currently working on expanding my knowledge in this particular area
   
-
 - 🛡 And trying to dive into cyber security   
   
+- 💻 You can find me at the Codewars.com https://www.codewars.com/users/_aslan17
 
 - ❓ Ask me about anything related to C# 
   

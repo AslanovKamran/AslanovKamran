@@ -8,7 +8,7 @@
 
 - 🐱‍🏍 I am currently working on expanding my knowledge in this particular area
   
-- 🛡 And trying to dive into cyber security   
+- 🕸 And trying to dive into Web Developmemt
   
 - 💻 You can find me at the <a href="https://www.codewars.com/users/_aslan17">Codewars.com</a>
 

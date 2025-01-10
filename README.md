@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a software developer with knowledge of .NET Framework (related to Back End) and React (related to Front End) 👨‍💻</div>  
+### <div align="center">Software Developer</div>  
   
 
 - 👨‍💻 I am currently working as ASP .Net Developer

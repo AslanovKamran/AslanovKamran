@@ -6,12 +6,11 @@
 ### <div align="center">I'm a software developer with knowledge of .NET Framework (related to Back End) and React (related to Front End) 👨‍💻</div>  
   
 
-- 🐱‍🏍 I am currently working on expanding my knowledge in this particular area
+- 👨‍💻 I am currently working as ASP .Net Developer
   
-- 🕸 And trying to dive into Web Developmemt
+- 💻 Trying to dive into Web Developmemt
   
-- 💻 You can find me at the <a href="https://www.codewars.com/users/_aslan17">Codewars.com</a>
-
+- 🔍 You can find me at the <a href="https://www.codewars.com/users/_aslan17">Codewars.com</a>
 
 - ❓ Ask me about anything related to C# 
   
